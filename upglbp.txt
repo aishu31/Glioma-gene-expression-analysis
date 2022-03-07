@@ -1,0 +1,16 @@
+Term	count
+Positive regulation of dendritic cell cytokine production (go:0002732)	4.45257620530775
+Cellular response to cytokine stimulus (go:0071345)	2.68822622797942
+Positive regulation of interleukin-8 production (go:0032757)	2.65336284659608
+Pre-replicative complex assembly (go:0036388)	2.61223282500628
+Positive regulation of interleukin-6 production (go:0032755)	2.46551487391726
+Positive regulation of tumor necrosis factor production (go:0032760)	2.45438834931285
+Regulation of interleukin-8 production (go:0032677)	2.41132926160423
+Positive regulation of tumor necrosis factor superfamily cytokine production (go:1903557)	2.41132926160423
+Positive regulation of endothelial cell migration (go:0010595)	2.36050105586823
+Regulation of endothelial cell proliferation (go:0001936)	2.30340571430429
+Cytokine-mediated signaling pathway (go:0019221)	2.29292426096069
+Positive regulation of axon extension involved in axon guidance (go:0048842)	2.24129326460952
+Regulation of cell maturation (go:1903429)	2.24129326460952
+Positive regulation of leukocyte mediated immunity (go:0002705)	2.24129326460952
+

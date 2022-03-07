@@ -1,0 +1,16 @@
+Term	count
+Benzodiazepine receptor binding (go:0030156)	2.02388801280091
+Histone threonine kinase activity (go:0035184)	1.87856223627802
+Carbohydrate:proton symporter activity (go:0005351)	1.87856223627802
+Phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity (go:0004439)	1.87856223627802
+Inositol hexakisphosphate kinase activity (go:0000828)	1.82097132870655
+Phosphatidylinositol phosphate 5-phosphatase activity (go:0034595)	1.82097132870655
+Guanylate kinase activity (go:0004385)	1.77021976809679
+Phosphatidylinositol-4,5-bisphosphate phosphatase activity (go:0106019)	1.77021976809679
+Ionotropic glutamate receptor binding (go:0035255)	1.72486315398061
+Transaminase activity (go:0008483)	1.68387125462576
+Map-kinase scaffold activity (go:0005078)	1.68387125462576
+Gaba receptor binding (go:0050811)	1.68387125462576
+Protein kinase c activity (go:0004697)	1.580337682946
+Heparan sulfate sulfotransferase activity (go:0034483)	1.55077485211346
+

@@ -1,0 +1,16 @@
+Term	count
+Regulation of neurotransmitter receptor activity (go:0099601)	-3.7407481966658
+Chemical synaptic transmission (go:0007268)	-3.56991249417032
+Regulation of cation channel activity (go:2001257)	-3.19246694404298
+Regulation of ampa receptor activity (go:2000311)	-2.98892176274466
+Modulation of chemical synaptic transmission (go:0050804)	-2.93697859195299
+Regulation of neuronal synaptic plasticity (go:0048168)	-2.85959645133939
+Regulation of nmda receptor activity (go:2000310)	-2.77419987612444
+Regulation of neurotransmitter secretion (go:0046928)	-2.74756721425829
+Neurotransmitter transport (go:0006836)	-2.07131262640454
+Positive regulation of synaptic transmission (go:0050806)	-2.07131262640454
+Regulation of peptide hormone secretion (go:0090276)	-2.05993061887817
+Cell morphogenesis involved in neuron differentiation (go:0048667)	-2.03764459427407
+Glycerol biosynthetic process (go:0006114)	-2.02388801280091
+Histone-threonine phosphorylation (go:0035405)	-2.02388801280091
+

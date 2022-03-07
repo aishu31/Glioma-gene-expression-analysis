@@ -1,0 +1,16 @@
+Term	count
+Asymmetric synapse (go:0032279)	3.93640341839332
+Postsynaptic density (go:0014069)	3.8745200996054
+Synaptic vesicle membrane (go:0030672)	2.56054200179582
+Exocytic vesicle membrane (go:0099501)	2.56054200179582
+Asymmetric, glutamatergic, excitatory synapse (go:0098985)	1.94510792023162
+Cytoskeleton of presynaptic active zone (go:0048788)	1.87856223627802
+Dendritic spine membrane (go:0032591)	1.82097132870655
+Neuron projection (go:0043005)	1.68476928410934
+Axonal growth cone (go:0044295)	1.580337682946
+Protein phosphatase type 2a complex (go:0000159)	1.49721766532713
+Gaba-a receptor complex (go:1902711)	1.44971304192787
+Ampa glutamate receptor complex (go:0032281)	1.42783651627449
+Postsynaptic density membrane (go:0098839)	1.42783651627449
+Postsynaptic specialization membrane (go:0099634)	1.40704697947179
+

@@ -1,0 +1,16 @@
+Term	count
+Cytoskeleton (go:0005856)	3.28957982837096
+Bicellular tight junction (go:0005923)	2.44341026128611
+Tight junction (go:0070160)	2.37041741796775
+Apical junction complex (go:0043296)	2.25005307708133
+Alpha dna polymerase:primase complex (go:0005658)	2.24129326460952
+Endolysosome lumen (go:0036021)	2.24129326460952
+Spermatoproteasome complex (go:1990111)	2.24129326460952
+CMG complex (go:0071162)	1.94145554965559
+Integral component of nuclear inner membrane (go:0005639)	1.86275118372588
+Intrinsic component of nuclear inner membrane (go:0031229)	1.86275118372588
+Pericentric heterochromatin (go:0005721)	1.79628119110427
+Platelet alpha granule membrane (go:0031092)	1.71267530817439
+Intracellular membrane-bounded organelle (go:0043231)	1.70698648297841
+Endocytic vesicle lumen (go:0071682)	1.6218578630862
+

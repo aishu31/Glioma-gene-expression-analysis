@@ -1,0 +1,15 @@
+Term	count
+Double-stranded RNA binding (go:0003725)	2.49982547342512
+Syndecan binding (go:0045545)	2.24129326460952
+Chromo shadow domain binding (go:0070087)	2.1623504413632
+Keratin filament binding (go:1990254)	2.1623504413632
+Clathrin light chain binding (go:0032051)	2.09564210774872
+Arylsulfatase activity (go:0004065)	1.79628119110427
+NaDPH binding (go:0070402)	1.79628119110427
+Clathrin adaptor activity (go:0035615)	1.76655632920106
+1-phosphatidylinositol-3-kinase regulator activity (go:0046935)	1.73876594031033
+Transmembrane receptor protein phosphatase activity (go:0019198)	1.73876594031033
+Transmembrane receptor protein tyrosine phosphatase activity (go:0005001)	1.73876594031033
+Glutamate receptor binding (go:0035254)	1.71267530817439
+Sulfuric ester hydrolase activity (go:0008484)	1.71267530817439
+
